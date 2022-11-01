@@ -66,7 +66,7 @@ Requirements:
 
 Clone this repo:
 
-    git clone git@github.com:fboender/sshbg.git
+    git clone git@github.com:ryancowell/sshbg.git
     cd sshbg
 
 Copy the `sshbg` script to some dir in your PATH, for example:
@@ -129,6 +129,9 @@ The keys:
   change the background color itself anymore. No idea why.
 * Probably a million different strange behaviours. Did I mention I don't
   support this project already?
+  
+  All credit goes to fboender for the original code. Partial credit may go
+  to me at some point if I eventually make updates to the code.
 
 ## License
 

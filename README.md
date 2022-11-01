@@ -1,7 +1,7 @@
 sshbg
 =====
 
-FRESH FORK, updates to come eventually.
+FRESH FORK, updates to come eventually. For anyone interested, this did work for mate-terminal in Ubuntu 22. My goal is to have it also work in Debian as well, though I will only test in mate-terminal as it is what I use. For those even more interested, I may consider updating it to work with foreground colors as well so that you can ensure your terminal is legible. 
 
 Change terminal background color when SSH'ing.
 

@@ -1,6 +1,8 @@
 sshbg
 =====
 
+FRESH FORK, updates to come eventually.
+
 Change terminal background color when SSH'ing.
 
 <font color="#FF0000">**Important notice**</font>: I do not provide support
